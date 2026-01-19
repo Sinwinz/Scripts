@@ -11,18 +11,7 @@ Delete logs:
 ```
 
 
-## Bash
 
-```bash
-  wget https://raw.githubusercontent.com/Sinwinz/scripts/main/script_name.sh
-```
-
-```bash
-  chmod +x script_name.sh
-```
-```bash
-  script_name.sh
-```
 
 ## Authors
 
